@@ -2,13 +2,13 @@
 
 This project is a small Python application created to keep track of basic student information such as ID, name, branch, and year. The idea behind the project is to have a simple system that can store and manage records without using a full database. Everything is stored in a JSON file, which makes it easy to read, update, and maintain.
 
----
+
 
 ## Overview
 
 The program runs in the terminal and uses a menu-based structure, so it’s easy to follow even for beginners. It allows the user to add new students, check existing records, search for a particular student, make changes to stored details, and remove entries when needed. All the core operations are handled through Python code, which interacts with the JSON file in the background.
 
----
+
 
 ## Features
 
@@ -40,11 +40,10 @@ No external or advanced libraries are required.
 2. Download or clone the project folder.  
 3. Open a terminal window inside the project directory.  
 4. Run the command:  
-   ```bash
-   python main.py
+    python main.py
 
 
-##Testing the Program
+# Testing the program
 
 You can test the functions by trying the following:
 
